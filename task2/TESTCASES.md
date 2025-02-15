@@ -384,11 +384,11 @@ sellerID: 99111
 #### Шаги: 
 1. Отправить GET-запрос на https://qa-internship.avito.com/api/1/:sellerID/item 
 где : sellerId  ‒ из тестовых данных
-2. Проверить, что статус ответа равен 404 Not Found
+2. Проверить, что статус ответа равен 400 Bad Request
 3. Проверить структуру ответа
 
 #### Ожидаемый результат: 
-- Status code – 404 Not Found
+- Status code – 400 Bad Request
 - Структура ответа:
 ```
 {
