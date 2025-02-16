@@ -1,6 +1,6 @@
 # Bug report
 
-#### Bug ID 	1
+## Bug ID 	1
 
 **Testcase ID:** 3
 
@@ -21,7 +21,7 @@ Status code – 200 OK
 **Приоритет:**
 high
 
- #### Bug ID 	2
+ ## Bug ID 	2
 **Testcase ID:**
 4
 
@@ -55,7 +55,7 @@ Status code – 200 OK
 **Приоритет:**
 high
 
- #### Bug ID 	3
+ ## Bug ID 	3
 **Testcase ID:**
 5
 
@@ -83,7 +83,7 @@ Status code – 200 OK
 **Приоритет:**
 high
 
- #### Bug ID 	4
+ ## Bug ID 	4
 **Testcase ID:**
 12
 
